@@ -16,12 +16,9 @@ Users can interact through likes, comments, and follow their favorite pet enthus
 | 6     | [Installation](#-installation) |
 | 7     | [Built With](#-built-with) |
 | 8     | [Contributing](#-contributing) |
-| 9     | [Wiki](#-wiki) |
-| 10    | [Versioning](#-versioning) |
-| 11    | [Authors](#-authors) |
-| 12    | [License](#-license) |
-| 13    | [Acknowledgments](#-acknowledgments) |
-| 14    | [API Documentation](#-api-documentation) |
+| 10    | [Authors](#-authors) |
+| 11    | [License](#-license) |
+
 
 
 ## 🌟 Features
